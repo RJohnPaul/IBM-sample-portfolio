@@ -1,6 +1,6 @@
 # Jane Doe Portfolio (Starter) 
 
-This repository contains the HTML code for Jane Doe's portfolio website.
+This repository contains the HTML code for Jane Doe's portfolio website which is for a basic starting point
 
 ## Table of Contents
 - [About](#about)
